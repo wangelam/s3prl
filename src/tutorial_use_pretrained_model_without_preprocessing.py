@@ -1,17 +1,17 @@
 # -*- coding: utf-8 -*- #
-"""*********************************************************************************************"""
+#"""*********************************************************************************************"""
 #   FileName     [ tutorial_use_pretrained_model_without_preprocessing.py ]
 #   Synopsis     [ an example code of using the wrapper class for downstream feature extraction or finetune ]
 #   Author       [ Andy T. Liu (Andi611) ]
 #   Copyright    [ Copyleft(c), Speech Lab, NTU, Taiwan ]
-"""*********************************************************************************************"""
+#"""*********************************************************************************************"""
 
 
-"""
-[Introduction]
-This is a tutorial for using pre-trained models without doing preprocessing.
-Only for pre-trained models that has `on-the-fly` in their dir name (They are trained with on-the-fly feature extractors).
-"""
+#"""
+#[Introduction]
+#This is a tutorial for using pre-trained models without doing preprocessing.
+#Only for pre-trained models that has `on-the-fly` in their dir name (They are trained with on-the-fly feature extractors).
+#"""
 
 
 ###############
